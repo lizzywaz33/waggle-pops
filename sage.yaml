@@ -1,0 +1,13 @@
+name: "POPs"
+version: "0.1.1"
+description: "Plugin for transferring Handix Portable Optical Particle spectrometer data"
+keywords: "air quality, aerosol"
+authors: "Liz Wawrzyniak"
+collaborators: "Joseph O'Brien, Robert Jackson, Scott Collis"
+funding: "U.S. Department of Energy"
+license: "MIT"
+homepage: ""
+source:
+  architectures:
+    - "linux/amd64"
+    - "linux/arm64"
