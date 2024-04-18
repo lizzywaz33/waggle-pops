@@ -1,4 +1,4 @@
-name: "POPs"
+name: "waggle-pops"
 version: "0.1.1"
 description: "Plugin for transferring Handix Portable Optical Particle spectrometer data"
 keywords: "air quality, aerosol"
